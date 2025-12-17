@@ -1,8 +1,12 @@
 package ex_01_Java_Basics;
 
-public class Lab01_HelloWorld {
+public class Lab02_HelloWorld {
+    static void main() {
+
+    }
     public static void main(String[] args) {
         System.out.print("HelloWorld");
+        System.out.println();;
         //Single Line comment - This code will not be executed.
         //Purpose of comment?
 
