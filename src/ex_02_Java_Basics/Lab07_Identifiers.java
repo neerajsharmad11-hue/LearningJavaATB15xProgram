@@ -4,7 +4,7 @@ public class Lab07_Identifiers {
     public static void main(String[] args) {
         System.out.println("Hi");
 
-        /*
+        /* Class Lab07_Identifiers is identifier here
         * An identifier in Java is a name given by the programmer to identify a programming element such as:
 
 Variables

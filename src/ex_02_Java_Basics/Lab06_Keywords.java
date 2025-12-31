@@ -3,6 +3,7 @@ package ex_02_Java_Basics;
 public class Lab06_Keywords {
     public static void main(String[] args) {
         System.out.println("Hi");
+        // package, public, class, static, void
     /**
         Keywords are reserved words that have a predefined meaning in the language;
         you cannot use them as names for variables, classes, or methods.

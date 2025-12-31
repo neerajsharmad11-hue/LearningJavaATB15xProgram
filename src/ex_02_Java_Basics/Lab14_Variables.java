@@ -1,6 +1,6 @@
 package ex_02_Java_Basics;
 
-public class Lab10_Variables {
+public class Lab14_Variables {
    public static void main(String[] args) {
 
 //       data_type variable_name = variable_value
@@ -19,7 +19,7 @@ public class Lab10_Variables {
 
 
 //       Here -
-//       byte is data_type
+//       byte is data_type --> type of container
 //       Age_Anil is variable_name. Variable name is nothing but identifier
 //       40 is variable_value. It is also called as Literal
 //       "=" is called assignment operator. Its function is to put 40 into variable_name
